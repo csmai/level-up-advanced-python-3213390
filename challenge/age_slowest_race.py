@@ -10,7 +10,7 @@ def get_data():
 def get_event_time(line):
     """Given a line with Jennifer Rhines' race times from 10k_racetimes.txt, 
        parse it and return a tuple of (age at event, race time).
-       Assume a year has 365.25 days"""
+       Assume a year has 365.25 days ff"""
     pass
     
 def get_age_slowest_times():
